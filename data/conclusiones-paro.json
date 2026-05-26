@@ -1,0 +1,28 @@
+{
+  "conclusiones": [
+    {
+      "comparacion": "Educación secundaria vs Educación superior",
+      "conclusion": "Obtener educación superior reduce considerablemente el riesgo de desempleo y proporciona una ventaja competitiva clara frente a los niveles educativos medios-bajos."
+    },
+    {
+      "comparacion": "Secundaria vs Primaria o inferior",
+      "conclusion": "Incluso un nivel básico de formación representa una mejora significativa respecto a los estudios primarios, reduciendo parcialmente el riesgo de exclusión laboral."
+    },
+    {
+      "comparacion": "Secundaria vs Educación postsecundaria no superior",
+      "conclusion": "Completar estudios postobligatorios supone una mejora clara en la empleabilidad y reduce significativamente la tasa de paro respecto a quienes solo poseen educación básica."
+    },
+    {
+      "comparacion": "Educación superior vs Primaria o inferior",
+      "conclusion": "La educación superior constituye el principal mecanismo de protección frente al desempleo, mientras que la ausencia de formación académica incrementa considerablemente el riesgo de exclusión laboral."
+    },
+    {
+      "comparacion": "Educación superior vs Educación postsecundaria no superior",
+      "conclusion": "La formación universitaria o superior ofrece una ventaja competitiva importante en el mercado laboral respecto a los estudios secundarios avanzados."
+    },
+    {
+      "comparacion": "Primaria o inferior vs Educación postsecundaria no superior",
+      "conclusion": "Avanzar hacia niveles educativos postobligatorios reduce de forma muy significativa el desempleo y mejora notablemente la estabilidad laboral frente a los niveles educativos más bajos."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "ramas": [
+    {
+      "titulo": "Conclusiones de la rama: Artes y humanidades",
+      "rama": "Artes y humanidades",
+      "total_personas": 18079,
+      "brecha_genero": {
+        "mujeres": 11774,
+        "hombres": 6305,
+        "porcentaje_mujeres": 65.1,
+        "porcentaje_hombres": 34.9,
+        "diferencia": 5469,
+        "interpretacion": "En esta rama hay predominio femenino, con 6305 hombres y 11774 mujeres"
+      }
+    },
+    {
+      "titulo": "Conclusiones de la rama: Ciencias",
+      "rama": "Ciencias",
+      "total_personas": 12255,
+      "brecha_genero": {
+        "mujeres": 7003,
+        "hombres": 5252,
+        "porcentaje_mujeres": 57.1,
+        "porcentaje_hombres": 42.9,
+        "diferencia": 1751,
+        "interpretacion": "En esta rama hay predominio femenino, con 5252 hombres y 7003 mujeres"
+      }
+    },
+    {
+      "titulo": "Conclusiones de la rama: Ciencias de la salud",
+      "rama": "Ciencias de la salud",
+      "total_personas": 35666,
+      "brecha_genero": {
+        "mujeres": 26101,
+        "hombres": 9565,
+        "porcentaje_mujeres": 73.2,
+        "porcentaje_hombres": 26.8,
+        "diferencia": 16536,
+        "interpretacion": "En esta rama hay fuerte predominio femenino, con 9565 hombres y 26101 mujeres"
+      }
+    },
+    {
+      "titulo": "Conclusiones de la rama: Ciencias sociales y jurídicas",
+      "rama": "Ciencias sociales y jurídicas",
+      "total_personas": 119397,
+      "brecha_genero": {
+        "mujeres": 78450,
+        "hombres": 40947,
+        "porcentaje_mujeres": 65.7,
+        "porcentaje_hombres": 34.3,
+        "diferencia": 37503,
+        "interpretacion": "En esta rama hay predominio femenino, con 40947 hombres y 78450 mujeres"
+      }
+    },
+    {
+      "titulo": "Conclusiones de la rama: Ingeniería y arquitectura",
+      "rama": "Ingeniería y arquitectura",
+      "total_personas": 48229,
+      "brecha_genero": {
+        "mujeres": 13440,
+        "hombres": 34789,
+        "porcentaje_mujeres": 27.9,
+        "porcentaje_hombres": 72.1,
+        "diferencia": 21349,
+        "interpretacion": "En esta rama hay fuerte predominio masculino, con 34789 hombres y 13440 mujeres"
+      }
+    }
+  ]
+}

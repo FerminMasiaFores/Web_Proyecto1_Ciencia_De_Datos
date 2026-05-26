@@ -1,0 +1,158 @@
+[
+    {
+        "pais": "Albania",
+        "conclusion": "Albania ha experimentado un crecimiento sostenido y notable de su salario mínimo, pasando de 209€ en 2020-S2 hasta 517€ en 2026-S1, casi triplicando su valor en cinco años. El crecimiento fue gradual hasta 2022, se aceleró entre 2023 y 2024, y dio un salto especialmente pronunciado en el último semestre registrado (de 408€ a 517€). A pesar de esta tendencia positiva, Albania continúa siendo uno de los países con el salario mínimo más bajo del conjunto analizado."
+    },
+    {
+        "pais": "Bélgica",
+        "conclusion": "Bélgica mantiene uno de los salarios mínimos más altos del dataset. Partiendo de 1626€ en 2020-S2, experimentó un crecimiento moderado hasta 2021, seguido de un salto significativo en 2022-S2 hasta 1842€, impulsado en parte por la indexación automática de salarios. Desde entonces el crecimiento ha sido más gradual, alcanzando 2112€ en 2026-S1. La tendencia general es de crecimiento constante con cierta estabilidad entre semestres consecutivos."
+    },
+    {
+        "pais": "Bulgaria",
+        "conclusion": "Bulgaria ha seguido una trayectoria claramente ascendente, partiendo de 312€ en 2020-S2 y llegando a 620€ en 2026-S1, duplicando prácticamente su salario mínimo. Los aumentos se producen de forma escalada, con periodos de estabilidad entre subidas. Los mayores incrementos relativos se concentran entre 2024 y 2026."
+    },
+    {
+        "pais": "Croacia",
+        "conclusion": "Croacia ha mostrado una evolución muy positiva, pasando de 546€ en 2020-S2 a 1050€ en 2026-S1, prácticamente doblando el salario mínimo en el periodo analizado. El crecimiento ha sido continuo y se ha acelerado especialmente desde 2024, coincidiendo con su incorporación a la zona euro. Es uno de los países con mayor ritmo de crecimiento relativo entre los europeos de nivel medio."
+    },
+    {
+        "pais": "Chipre",
+        "conclusion": "Chipre introduce el salario mínimo en el dataset a partir de 2023-S1, con un valor de 940€, lo que indica que fue establecido legalmente alrededor de esa fecha. Desde entonces se ha mantenido relativamente estable en 1000€ durante varios semestres, con una subida a 1088€ en 2026-S1."
+    },
+    {
+        "pais": "Chequia",
+        "conclusion": "Chequia presenta un crecimiento constante a lo largo de todo el periodo, pasando de 546€ en 2020-S2 a 924€ en 2026-S1. El avance ha sido progresivo semestre a semestre, sin grandes saltos ni retrocesos, reflejando una política salarial estable. Es uno de los países de Europa central con mayor dinamismo en la convergencia salarial durante el periodo analizado."
+    },
+    {
+        "pais": "Estonia",
+        "conclusion": "Estonia ha crecido de forma escalonada, con aumentos que se aplican por semestres completos y luego se consolidan. Desde los 584€ de 2020-S2 hasta los 886€ de 2026-S1, el incremento total supera el 50%. El crecimiento fue especialmente notable entre 2021 y 2024, aunque en el último año el salario se ha estabilizado en 886€ durante tres semestres consecutivos."
+    },
+    {
+        "pais": "Francia",
+        "conclusion": "Francia ha incrementado su salario mínimo de forma gradual y sostenida, desde 1539€ en 2020-S2 hasta 1823€ en 2026-S1. Los aumentos responden en parte a las revalorizaciones automáticas vinculadas a la inflación. La progresión es continúa sin grandes saltos. El crecimiento acumulado en el periodo ronda el 18%."
+    },
+    {
+        "pais": "Alemania",
+        "conclusion": "Alemania ha experimentado uno de los mayores crecimientos en términos absolutos entre los países de la UE, pasando de 1544€ en 2020-S2 a 2343€ en 2026-S1. El salto más destacado se produjo en 2023-S1, cuando el salario mínimo subió de 1739€ a 1997€ en un solo semestre, fruto de la reforma del salario mínimo impulsada por el gobierno de coalición. La tendencia es claramente alcista y constante."
+    },
+    {
+        "pais": "Grecia",
+        "conclusion": "Grecia ha seguido una trayectoria ascendente pero con cierta lentitud en los primeros años del periodo. Partiendo de 758€ en 2020-S2, el salario se mantuvo sin cambios hasta 2022-S2 (832€), y desde entonces ha ido subiendo de forma progresiva hasta alcanzar 1027€ en 2026-S1. El crecimiento acumulado es notable, superando el 35% en el total del periodo analizado."
+    },
+    {
+        "pais": "Hungría",
+        "conclusion": "Hungría presenta la evolución más irregular del dataset debido a la fuerte fluctuación del forinto frente al euro. Las cifras en euros suben y bajan entre semestres consecutivos (por ejemplo, de 542€ en 2022-S1 a 504€ en 2022-S2), aunque en moneda local el salario mínimo ha crecido continuamente. La tendencia en euros es globalmente ascendente, de 452€ en 2020-S2 a 838€ en 2026-S1, pero con oscilaciones frecuentes."
+    },
+    {
+        "pais": "Irlanda",
+        "conclusion": "Irlanda ha tenido un crecimiento muy sólido, especialmente a partir de 2023, cuando el salario pasó de 1775€ a 1910€ en solo un semestre. Desde los 1707€ de 2020-S2 hasta los 2391€ de 2026-S1, el incremento acumulado supera el 40%. Irlanda se posiciona entre los países con salario mínimo más alto del continente, reflejando el elevado coste de vida y la robustez de su economía."
+    },
+    {
+        "pais": "Letonia",
+        "conclusion": "Letonia ha crecido de forma escalonada, con el salario mínimo pasando de 430€ en 2020-S2 a 780€ en 2026-S1. Los aumentos se producen en bloques: en 2021 subió de 430€ a 500€ y se mantuvo estable dos años, luego saltó a 620€ en 2023 y siguió subiendo gradualmente. El ritmo de crecimiento se ha acelerado en los últimos años, duplicando casi el valor inicial."
+    },
+    {
+        "pais": "Lituania",
+        "conclusion": "Lituania es uno de los países con mayor crecimiento porcentual del periodo, pasando de 607€ en 2020-S2 a 1153€ en 2026-S1, casi doblando el salario mínimo en cinco años. Los aumentos son regulares y escalonados, con subidas significativas en 2022 y 2025. Este dinamismo refleja la política activa de convergencia salarial con la media europea occidental."
+    },
+    {
+        "pais": "Luxemburgo",
+        "conclusion": "Luxemburgo ostenta el salario mínimo más alto del dataset en todos los periodos registrados, partiendo de 2142€ en 2020-S2 y alcanzando 2704€ en 2025-S2 y 2026-S1. El crecimiento ha sido constante, con subidas regulares cada semestre o cada año. Destaca el salto de 2023-S1 a 2023-S2 (de 2387€ a 2508€), el mayor incremento semestral en términos absolutos del país. Luxemburgo marca el techo salarial mínimo de Europa."
+    },
+    {
+        "pais": "Malta",
+        "conclusion": "Malta muestra una evolución moderada pero positiva, pasando de 777€ en 2020-S2 a 994€ en 2026-S1. El crecimiento ha sido gradual y estable, sin grandes fluctuaciones, con incrementos que se aplican en periodos de uno o dos semestres. La aceleración más notable se produjo entre 2023-S2 y 2024-S1, con un salto de 835€ a 925€."
+    },
+    {
+        "pais": "Moldavia",
+        "conclusion": "Moldavia presenta la evolución más llamativa del dataset: con valores extremadamente bajos al inicio (51€ en 2020-S2 y hasta 47€ en 2021), el salario mínimo se mantuvo casi congelado hasta 2022. A partir de 2023-S1 se produjo un salto brusco hasta 196€, y desde entonces ha seguido creciendo hasta alcanzar 319€ en 2026-S1. Aun así, Moldavia sigue siendo el país con el salario mínimo más bajo del conjunto analizado."
+    },
+    {
+        "pais": "Montenegro",
+        "conclusion": "Montenegro presenta el patrón de crecimiento más escalonado del dataset: el salario se mantuvo fijo en 331€ durante año y medio, luego dio un gran salto a 533€ en 2022-S1 y se quedó completamente estático durante tres años completos. En 2025-S1 subió a 670€, donde se ha mantenido hasta 2026-S1. Esta dinámica refleja un modelo de actualización salarial por grandes reformas puntuales en lugar de ajustes graduales."
+    },
+    {
+        "pais": "Países Bajos",
+        "conclusion": "Países Bajos ha tenido un crecimiento muy fuerte y sostenido, especialmente a partir de 2023 cuando el salario sugería superar los 1900€. Desde los 1680€ de 2020-S2 hasta los 2295€ de 2026-S1, el incremento acumulado ronda el 37%. El país implementó una reforma significativa del salario mínimo en 2023 que impulsó el valor considerablemente, y la tendencia ascendente se ha mantenido desde entonces."
+    },
+    {
+        "pais": "Macedonia del Norte",
+        "conclusion": "Macedonia del Norte ha crecido de forma progresiva desde 342€ en 2020-S2 hasta 586€ en 2026-S1. Los aumentos son regulares y se distribuyen uniformemente a lo largo de los semestres, sin grandes saltos ni retrocesos. El ritmo de crecimiento es moderado pero constante, casi doblando el valor inicial en el periodo analizado."
+    },
+    {
+        "pais": "Polonia",
+        "conclusion": "Polonia es uno de los casos de mayor crecimiento del dataset. Desde 583€ en 2020-S2, el salario mínimo ha alcanzado 1139€ en 2026-S1, prácticamente doblándose. El crecimiento se aceleró notablemente a partir de 2024, con un salto especialmente grande entre 2023-S2 (811€) y 2024-S1 (978€). Polonia ha apostado decididamente por subidas salariales como herramienta de política económica y social."
+    },
+    {
+        "pais": "Portugal",
+        "conclusion": "Portugal ha mantenido una trayectoria de crecimiento continua y ordenada, pasando de 741€ en 2020-S2 a 1073€ en 2026-S1. Los aumentos se producen cada año, generalmente en el primer semestre, y se mantienen estables en el segundo. El crecimiento acumulado supera el 44%, situando a Portugal por encima de la media de los países del sur y este de Europa."
+    },
+    {
+        "pais": "Rumanía",
+        "conclusion": "Rumanía ha crecido de forma notable, desde 461€ en 2020-S2 hasta un máximo de 814€ en 2025-S1, aunque con cierta irregularidad al final del periodo: en 2025-S2 y 2026-S1 el valor retrocedió ligeramente hasta 795€. Las fluctuaciones se explican en parte por la variación del leu frente al euro. La tendencia de largo plazo es claramente ascendente, casi doblando el salario mínimo en cinco años."
+    },
+    {
+        "pais": "Serbia",
+        "conclusion": "Serbia ha seguido una trayectoria ascendente sostenida, pasando de 344€ en 2020-S2 a 744€ en 2026-S1, más del doble en el periodo analizado. Los incrementos son regulares y se producen de forma escalonada, con el mayor salto registrado entre 2025-S2 (618€) y 2026-S1 (744€). El crecimiento refleja la mejora económica del país y su aspiración de convergencia con los estándares europeos."
+    },
+    {
+        "pais": "Eslovaquia",
+        "conclusion": "Eslovaquia presenta un crecimiento constante y bien distribuido, desde 580€ en 2020-S2 hasta 915€ en 2026-S1. Los aumentos son regulares, generalmente anuales, y no hay retrocesos en toda la serie. El ritmo de crecimiento se ha acelerado ligeramente en los últimos dos años, con subidas que superan los 60-80€ por actualización."
+    },
+    {
+        "pais": "Eslovenia",
+        "conclusion": "Eslovenia ha crecido de forma notable, de 941€ en 2020-S2 a un máximo de 1278€ donde se ha estabilizado durante los últimos tres semestres (2025-S1 a 2026-S1). El crecimiento más intenso se produjo entre 2020 y 2023, con un salto especialmente grande en 2023-S1 (de 1074€ a 1203€). Es uno de los países de Europa central con el salario mínimo más alto."
+    },
+    {
+        "pais": "España",
+        "conclusion": "España muestra una evolución positiva pero con periodos de congelación. Desde 1108€ en 2020-S2, el salario mínimo se mantuvo sin cambios hasta 2022-S1, luego subió gradualmente hasta 1381€, valor en el que se ha estabilizado durante los últimos tres semestres (2025-S1 a 2026-S1). El crecimiento acumulado desde 2020 es del 24,6%, aunque la reciente estabilización sugiere que el proceso de actualización ha perdido impulso."
+    },
+    {
+        "pais": "Turquía",
+        "conclusion": "Turquía presenta la evolución más volátil del dataset en términos de euros, consecuencia directa de la fuerte depreciación de la lira turca. Desde 383€ en 2020-S2, el salario cayó hasta 328€ en 2022-S1 pese a subidas en lira, y desde entonces ha oscilado al alza y a la baja entre semestres consecutivos. El máximo en euros se alcanzó en 2025-S1 (708€), pero en 2025-S2 volvió a caer a 558€. La tendencia de largo plazo es incierta debido a la alta inflación y la inestabilidad cambiaria."
+    },
+    {
+        "pais": "Ucrania",
+        "conclusion": "Ucrania muestra una evolución marcada por la inestabilidad económica y el impacto de la guerra iniciada en 2022. Desde 158€ en 2020-S2 creció hasta 211€ en 2022-S2, pero a partir de 2023 el salario mínimo en euros retrocedió (172€ en 2023-S1) y se ha mantenido en niveles bajos y fluctuantes hasta 2026-S1 (173€). La depreciación de la hryvnia y el contexto bélico explican este estancamiento."
+    },
+    {
+        "pais": "Reino Unido",
+        "conclusion": "El Reino Unido solo cuenta con un dato en el dataset, correspondiente a 2020-S2 (1583€). La ausencia de datos posteriores probablemente refleja que, tras el Brexit, Eurostat dejó de incluir al Reino Unido en esta recopilación de forma regular. Con el dato disponible, el salario mínimo británico se situaba en un nivel medio-alto dentro del contexto europeo."
+    },
+    {
+        "pais": "Estados Unidos",
+        "conclusion": "Estados Unidos presenta una evolución inusual: el salario federal mínimo en dólares no ha cambiado desde 2009 (7,25$/hora), por lo que las variaciones en euros se deben exclusivamente a las variaciones de valor entre euro-dolar."
+    },
+    {
+        "pais": "Dinamarca",
+        "conclusion": "Dinamarca no cuenta con un salario mínimo nacional establecido por ley en el dataset. Su modelo laboral se basa en la 'flexiseguridad', donde los salarios se negocian directamente entre sindicatos y patronales a través de convenios colectivos sectoriales, lo que resulta en niveles salariales generalmente altos sin intervención estatal directa."
+    },
+    {
+        "pais": "Italia",
+        "conclusion": "Italia es una de las grandes economías de la UE que no dispone de un salario mínimo legal único. La determinación de los suelos salariales se deja en manos de la negociación colectiva nacional por sectores. Aunque existe un debate político recurrente sobre su implementación, el dataset no refleja valores para este país."
+    },
+    {
+        "pais": "Austria",
+        "conclusion": "Austria no tiene un salario mínimo general aplicable."
+    },
+    {
+        "pais": "Finlandia",
+        "conclusion": "Finlandia no tiene un salario mínimo general aplicable."
+    },
+    {
+        "pais": "Suecia",
+        "conclusion": "Suecia no tiene un salario mínimo general aplicable."
+    },
+    {
+        "pais": "Islandia",
+        "conclusion": "Islandia no tiene un salario mínimo general aplicable."
+    },
+    {
+        "pais": "Noruega",
+        "conclusion": "Noruega no tiene un salario mínimo general aplicable."
+    },
+    {
+        "pais": "Suiza",
+        "conclusion": "Suiza no tiene un salario mínimo general aplicable, no obstante, es un caso particular ya que algunos de sus cantones (como Ginebra o Neuchâtel) sí han aprobado salarios mínimos locales mediante votaciones populares, aunque no existe una cifra única para todo el país."
+    }
+]

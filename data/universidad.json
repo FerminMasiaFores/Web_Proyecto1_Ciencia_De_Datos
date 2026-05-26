@@ -1,0 +1,202 @@
+[
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias sociales y jurídicas",
+    "Sexo": "Hombres",
+    "Total": 33075,
+    "Total_sqrt": 181.8653,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien. Sociales y Jurídicas",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias sociales y jurídicas",
+    "Sexo": "Mujeres",
+    "Total": 63182,
+    "Total_sqrt": 251.3603,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien. Sociales y Jurídicas",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ingeniería y arquitectura",
+    "Sexo": "Hombres",
+    "Total": 30400,
+    "Total_sqrt": 174.356,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Ing. y Arq.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ingeniería y arquitectura",
+    "Sexo": "Mujeres",
+    "Total": 11889,
+    "Total_sqrt": 109.0367,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Ing. y Arq.",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Artes y humanidades",
+    "Sexo": "Hombres",
+    "Total": 6027,
+    "Total_sqrt": 77.6338,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Art.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Artes y humanidades",
+    "Sexo": "Mujeres",
+    "Total": 11320,
+    "Total_sqrt": 106.3955,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Art.",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias de la salud",
+    "Sexo": "Hombres",
+    "Total": 6916,
+    "Total_sqrt": 83.1625,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien. Salud",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias de la salud",
+    "Sexo": "Mujeres",
+    "Total": 21231,
+    "Total_sqrt": 145.7086,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien. Salud",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias",
+    "Sexo": "Hombres",
+    "Total": 5138,
+    "Total_sqrt": 71.6798,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades públicas",
+    "Rama de conocimiento": "Ciencias",
+    "Sexo": "Mujeres",
+    "Total": 6805,
+    "Total_sqrt": 82.4924,
+    "TipoUni_abrev": "Públicas",
+    "Rama_abrev": "Cien.",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias sociales y jurídicas",
+    "Sexo": "Hombres",
+    "Total": 7872,
+    "Total_sqrt": 88.7243,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien. Sociales y Jurídicas",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias sociales y jurídicas",
+    "Sexo": "Mujeres",
+    "Total": 15268,
+    "Total_sqrt": 123.5637,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien. Sociales y Jurídicas",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ingeniería y arquitectura",
+    "Sexo": "Hombres",
+    "Total": 4389,
+    "Total_sqrt": 66.2495,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Ing. y Arq.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ingeniería y arquitectura",
+    "Sexo": "Mujeres",
+    "Total": 1551,
+    "Total_sqrt": 39.3827,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Ing. y Arq.",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Artes y humanidades",
+    "Sexo": "Hombres",
+    "Total": 278,
+    "Total_sqrt": 16.6733,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Art.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Artes y humanidades",
+    "Sexo": "Mujeres",
+    "Total": 454,
+    "Total_sqrt": 21.3073,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Art.",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias de la salud",
+    "Sexo": "Hombres",
+    "Total": 2649,
+    "Total_sqrt": 51.4684,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien. Salud",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias de la salud",
+    "Sexo": "Mujeres",
+    "Total": 4870,
+    "Total_sqrt": 69.7854,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien. Salud",
+    "Sexo_abrev": "F"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias",
+    "Sexo": "Hombres",
+    "Total": 114,
+    "Total_sqrt": 10.6771,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien.",
+    "Sexo_abrev": "M"
+  },
+  {
+    "Tipo de universidad": "Total universidades privadas",
+    "Rama de conocimiento": "Ciencias",
+    "Sexo": "Mujeres",
+    "Total": 198,
+    "Total_sqrt": 14.0712,
+    "TipoUni_abrev": "Privadas",
+    "Rama_abrev": "Cien.",
+    "Sexo_abrev": "F"
+  }
+]

@@ -1,0 +1,4471 @@
+[
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 209,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 243,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 245,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 248,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 269,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 298,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 376,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 385,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 399,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 408,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 408,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Albania",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 517,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Austria",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1626,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1626,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1626,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1658,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1842,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1955,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1955,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1994,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 2070,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 2070,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 2112,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bélgica",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 2112,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 312,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 332,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 332,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 332,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 363,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 399,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 399,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 477,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 477,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 551,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 551,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Bulgaria",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 620,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suiza",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 940,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 940,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1000,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 1000,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1000,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1000,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chipre",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1088,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 546,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 579,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 596,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 652,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 655,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 717,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 729,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 764,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 755,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 826,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 841,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Chequia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 924,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1544,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1585,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1602,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1634,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1739,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1997,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1997,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 2054,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 2054,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 2161,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 2161,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Alemania",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 2343,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Dinamarca",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 584,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 584,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 584,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 654,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 654,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 725,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 725,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 820,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 820,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 886,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 886,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estonia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 886,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 758,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 758,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 758,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 774,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 832,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 832,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 910,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 910,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 968,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 968,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1027,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Grecia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1027,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1108,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1108,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1108,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1126,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1167,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1167,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1260,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1323,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 1323,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1381,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1381,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "España",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1381,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Finlandia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1539,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1555,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1555,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1603,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1646,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1709,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1747,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1767,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 1767,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1802,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1802,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Francia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1823,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 546,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 563,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 567,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 624,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 622,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 840,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 840,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 970,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 970,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Croacia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1050,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 452,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 442,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 476,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 542,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 504,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 579,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 624,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 697,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 675,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 707,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 727,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Hungría",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 838,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1707,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1724,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1724,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1775,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1775,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1910,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1910,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 2146,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 2146,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 2282,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 2282,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Irlanda",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 2391,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Islandia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Italia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 607,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 642,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 642,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 730,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 730,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 840,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 840,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 924,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 924,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1038,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1038,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Lituania",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1153,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 2142,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 2202,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 2202,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 2257,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 2313,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 2387,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 2508,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 2571,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 2571,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 2638,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 2704,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Luxemburgo",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 2704,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 430,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 500,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 500,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 500,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 500,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 620,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 620,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 740,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 740,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Letonia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 780,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 51,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 47,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 47,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 50,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 50,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 196,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 200,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 258,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 261,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 285,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 279,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Moldavia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 319,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 331,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 331,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 331,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 533,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 670,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 670,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Montenegro",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 670,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 342,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 353,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 359,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 359,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 428,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 430,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 483,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 484,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 542,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 542,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 584,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Macedonia del Norte",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 586,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 777,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 785,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 785,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 792,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 792,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 835,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 835,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 925,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 925,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 961,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 961,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Malta",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 994,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1680,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1685,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1701,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1725,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1756,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1934,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1995,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 2070,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 2134,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 2193,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 2246,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Países Bajos",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 2295,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Noruega",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 583,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 614,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 619,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 655,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 642,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 746,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 811,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 978,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 998,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1091,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1100,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Polonia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1139,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 741,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 776,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 776,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 823,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 823,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 887,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 887,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 957,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 957,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1015,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1015,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Portugal",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1073,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 461,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 458,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 467,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 515,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 516,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 606,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 604,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 663,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 743,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 814,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 797,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Rumanía",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 795,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 344,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 366,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 366,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 401,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 402,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 460,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 461,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 544,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 544,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 619,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 618,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Serbia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 744,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Suecia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_FLAG": "m"
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 941,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1024,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1024,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1074,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1074,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1203,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1203,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1254,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 1254,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1278,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1278,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovenia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1278,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 580,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 623,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 623,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 646,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 646,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 700,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 750,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 750,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 816,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 816,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Eslovaquia",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 915,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 383,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 393,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 347,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 328,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 374,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 501,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 474,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 613,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 568,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 708,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 558,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Turquía",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 654,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 158,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 173,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 186,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 210,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 211,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 172,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 168,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 168,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 185,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 182,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 164,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Ucrania",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 173,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Reino Unido",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1583,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2020-S2",
+    "OBS_VALUE": 1122,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2021-S1",
+    "OBS_VALUE": 1024,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2021-S2",
+    "OBS_VALUE": 1057,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2022-S1",
+    "OBS_VALUE": 1110,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2022-S2",
+    "OBS_VALUE": 1210,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2023-S1",
+    "OBS_VALUE": 1178,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2023-S2",
+    "OBS_VALUE": 1157,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2024-S1",
+    "OBS_VALUE": 1137,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2024-S2",
+    "OBS_VALUE": 1174,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2025-S1",
+    "OBS_VALUE": 1210,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2025-S2",
+    "OBS_VALUE": 1072,
+    "OBS_FLAG": ""
+  },
+  {
+    "DATAFLOW": "ESTAT:TPS00155(1.0)",
+    "LAST.UPDATE": "30/01/26 11:00:00",
+    "freq": "Half-yearly, semesterly",
+    "currency": "Euro",
+    "geo": "Estados Unidos",
+    "TIME_PERIOD": "2026-S1",
+    "OBS_VALUE": 1070,
+    "OBS_FLAG": ""
+  }
+]

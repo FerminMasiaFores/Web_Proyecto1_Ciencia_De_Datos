@@ -1,0 +1,782 @@
+[
+  {
+    "sector": "Servicios de comidas y bebidas",
+    "division_cnae09": "56",
+    "titulo": "Conclusiones del sector: Servicios de comidas y bebidas",
+    "conclusiones": [
+      "La variabilidad salarial es muy baja (rango hasta 20.000€), lo que indica una estructura retributiva extremadamente compacta. Casi no hay diferencias entre lo que cobra un empleado y otro.",
+      "Se observa una incidencia mínima de pagos no monetarios, lo que sugiere que la remuneración se basa casi exclusivamente en el salario base líquido. Es decir, en este sector lo habitual es cobrar tu nómina tal cual, sin extras como cheques restaurante o seguros privados.",
+      "La brecha salarial de género es moderada (13.96%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Otros servicios personales",
+    "division_cnae09": "96",
+    "titulo": "Conclusiones del sector: Otros servicios personales",
+    "conclusiones": [
+      "Se observa una variabilidad mínima. Los salarios están muy nivelados, lo que sugiere que las funciones y responsabilidades están retribuidas de forma casi idéntica en todo el sector.",
+      "La presencia de salario en especie es residual, reflejando una estructura de beneficios sociales poco desarrollada. En la práctica, no esperes que la empresa te pague el gimnasio o el transporte; se centran en el sueldo directo.",
+      "La brecha salarial de género es elevada (21.2%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades deportivas, recreativas y de entretenimiento",
+    "division_cnae09": "93",
+    "titulo": "Conclusiones del sector: Actividades deportivas y recreativas",
+    "conclusiones": [
+      "La variabilidad es baja, situándose en el primer escalón de dispersión. Es un sector con sueldos predecibles y sin grandes saltos salariales internos.",
+      "El salario en especie suele limitarse al uso de las propias instalaciones, sin representar un porcentaje significativo del coste laboral total. Básicamente, tu 'plus' suele ser poder usar el centro donde trabajas, pero poco más en cuanto a beneficios extra.",
+      "La brecha salarial de género es elevada (23.38%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades veterinarias",
+    "division_cnae09": "75",
+    "titulo": "Conclusiones del sector: Actividades veterinarias",
+    "conclusiones": [
+      "Presenta una variabilidad reducida. Aunque hay especialización, los rangos de sueldo se mantienen en una franja muy estrecha y homogénea.",
+      "Existe una baja diversificación en las formas de pago, predominando la retribución dineraria estándar. Aquí lo que importa es el sueldo neto; los beneficios en especie como formación pagada o coche de empresa son muy poco comunes.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Servicios a edificios y actividades de jardinería",
+    "division_cnae09": "81",
+    "titulo": "Conclusiones del sector: Servicios a edificios y jardinería",
+    "conclusiones": [
+      "Baja variabilidad salarial. Indica un mercado laboral donde los sueldos están muy acotados por la estandarización de las tareas.",
+      "La retribución en especie es prácticamente inexistente debido a la naturaleza operativa y de baja rotación de beneficios en el sector. Olvídate de extras 'cool'; en jardinería y limpieza se va al grano: horas trabajadas, dinero cobrado.",
+      "La brecha salarial de género es elevada (33.85%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Industria del cuero y del calzado",
+    "division_cnae09": "15",
+    "titulo": "Conclusiones del sector: Industria del cuero y del calzado",
+    "conclusiones": [
+      "La variabilidad es mínima, propia de una industria con escalas muy rígidas. Apenas hay diferencia económica entre los distintos puestos de fabricación.",
+      "El modelo retributivo es tradicional, centrado en el salario base y complementos por producción, con nulo peso del salario en especie. Es una industria 'de toda la vida' donde los beneficios modernos de bienestar no suelen aparecer en la nómina.",
+      "La brecha salarial de género es moderada (6.04%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Asistencia en establecimientos residenciales",
+    "division_cnae09": "87",
+    "titulo": "Conclusiones del sector: Asistencia residencial",
+    "conclusiones": [
+      "Variabilidad media (hasta 40.000€). Se empiezan a notar diferencias de sueldo según la responsabilidad o el tipo de atención técnica requerida.",
+      "Se detectan pagos en especie vinculados a la manutención o el alojamiento en casos muy específicos, aunque no es la norma general. A veces, si el centro es grande, te pueden ofrecer las comidas, lo que te ayuda a ahorrar un poco al mes.",
+      "La brecha salarial de género es moderada (11.74%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de servicios sociales sin alojamiento",
+    "division_cnae09": "88",
+    "titulo": "Conclusiones del sector: Servicios sociales",
+    "conclusiones": [
+      "Variabilidad media. Existe una dispersión moderada que permite diferenciar salarios por antigüedad o grado de intervención social.",
+      "La compensación en especie es limitada, priorizando la estabilidad del salario base sobre los beneficios flexibles. No es común encontrar grandes planes de pensiones o seguros de salud pagados por la empresa aquí.",
+      "La brecha salarial de género es elevada (18.88%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades relacionadas con el empleo",
+    "division_cnae09": "78",
+    "titulo": "Conclusiones del sector: Actividades de empleo",
+    "conclusiones": [
+      "Variabilidad media. Los salarios pueden oscilar más dependiendo del tipo de perfiles que se gestionen y los objetivos de colocación.",
+      "Empiezan a aparecer modelos de retribución flexible, incluyendo formación o cheques transporte como parte del paquete salarial. En este sector, como saben de recursos humanos, es más probable que te ofrezcan ventajas para pagar menos impuestos por tu sueldo.",
+      "La brecha salarial de género es moderada (11.07%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades postales y de correos",
+    "division_cnae09": "53",
+    "titulo": "Conclusiones del sector: Actividades postales",
+    "conclusiones": [
+      "Variabilidad media. Se aprecia una dispersión clara entre el personal de reparto y los roles de logística avanzada y gestión corporativa.",
+      "La retribución no monetaria es escasa, concentrada principalmente en uniformidad y herramientas de trabajo que no computan como salario en especie significativo. Lo que ves es lo que hay: tu sueldo mensual sin adornos de beneficios sociales.",
+      "La brecha salarial de género es moderada (-7.14%) y favorece a las mujeres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de seguridad e investigación",
+    "division_cnae09": "80",
+    "titulo": "Conclusiones del sector: Seguridad e investigación",
+    "conclusiones": [
+      "La dispersión media refleja diferencias salariales ligadas a la especialización (vigilancia, escoltas o investigación privada).",
+      "El salario en especie tiene un peso bajo, limitado ocasionalmente a seguros de vida específicos por riesgo profesional. Más que beneficios 'de ocio', aquí los extras son por seguridad y protección, como es lógico.",
+      "La brecha salarial de género es moderada (8.07%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Confección de prendas de vestir",
+    "division_cnae09": "14",
+    "titulo": "Conclusiones del sector: Confección de prendas de vestir",
+    "conclusiones": [
+      "Variabilidad media. La coexistencia de roles de diseño y de fabricación en serie genera una dispersión salarial notable dentro de la industria.",
+      "La remuneración en especie es poco habitual, salvo descuentos en compra de producto para empleados en marcas grandes. Lo más parecido a un extra que verás es poder comprar la ropa que fabricáis a mejor precio.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Comercio al por menor",
+    "division_cnae09": "47",
+    "titulo": "Conclusiones del sector: Comercio al por menor",
+    "conclusiones": [
+      "Variabilidad media. Es un sector muy amplio donde el tipo de establecimiento y la ubicación influyen en que los sueldos no sean totalmente homogéneos.",
+      "Se utilizan beneficios como descuentos comerciales, aunque el salario en especie monetizable sigue siendo una parte minoritaria. Es el típico sector donde tu 'plus' es el descuento de empleado para tus propias compras.",
+      "La brecha salarial de género es elevada (21.36%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de muebles",
+    "division_cnae09": "31",
+    "titulo": "Conclusiones del sector: Fabricación de muebles",
+    "conclusiones": [
+      "Dispersión media. Refleja diferencias entre la producción industrial estándar y los acabados artesanales de mayor valor añadido.",
+      "No existe una cultura de retribución en especie extendida, predominando el pago por horas y productividad. Es un sector duro donde los beneficios se miden en dinero contante y sonante, no en extras.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Industria de la madera y del corcho",
+    "division_cnae09": "16",
+    "titulo": "Conclusiones del sector: Industria de la madera",
+    "conclusiones": [
+      "Variabilidad media. El sueldo varía moderadamente según el nivel de tecnificación de la planta y la especialidad del operario.",
+      "La incidencia de pagos no dinerarios es casi nula, siguiendo el patrón de las industrias de transformación primaria. Se cobra por lo que se produce; las empresas no suelen ofrecer paquetes de beneficios modernos.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades administrativas de oficina",
+    "division_cnae09": "82",
+    "titulo": "Conclusiones del sector: Actividades administrativas",
+    "conclusiones": [
+      "La variabilidad media muestra una estructura de niveles jerárquicos estándar, desde auxiliares hasta gestores de proyectos.",
+      "Es común el uso de tiques restaurante o tarjetas de transporte como parte de la retribución flexible en entornos corporativos urbanos. Si trabajas en una oficina en la ciudad, es muy probable que te den facilidades para comer o viajar más barato.",
+      "La brecha salarial de género es elevada (16.54%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de construcción especializada",
+    "division_cnae09": "43",
+    "titulo": "Conclusiones del sector: Construcción especializada",
+    "conclusiones": [
+      "Variabilidad media. Los oficios con alta demanda técnica (electricidad, climatización) presentan sueldos más elevados que los perfiles base.",
+      "El salario en especie se limita a menudo al uso de vehículo de empresa para desplazamientos, sin otros beneficios sociales reseñables. El 'gran lujo' aquí suele ser que te pongan la furgoneta para ir de un cliente a otro.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Industria textil",
+    "division_cnae09": "13",
+    "titulo": "Conclusiones del sector: Industria textil",
+    "conclusiones": [
+      "Variabilidad media. La dispersión salarial se debe a los diferentes procesos de acabado y gestión de calidad en la cadena de producción.",
+      "El componente de retribución no dineraria es muy bajo, centrándose los convenios en las tablas salariales directas. Es un sector muy regulado donde se prefiere el dinero directo antes que los beneficios variables.",
+      "La brecha salarial de género es elevada (17.89%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Venta y reparación de vehículos",
+    "division_cnae09": "45",
+    "titulo": "Conclusiones del sector: Venta y reparación de vehículos",
+    "conclusiones": [
+      "Variabilidad media. Se aprecia una diferencia marcada entre el personal técnico de taller y el equipo comercial impulsado por incentivos.",
+      "En los concesionarios es frecuente el uso de vehículo propio como parte de la compensación, especialmente en puestos de venta. ¡Aprovéchalo! Es de los pocos sectores donde podrías estrenar coche como parte de tu acuerdo laboral.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Construcción de edificios",
+    "division_cnae09": "41",
+    "titulo": "Conclusiones del sector: Construcción de edificios",
+    "conclusiones": [
+      "Variabilidad media. La dispersión responde a los distintos grados de responsabilidad en obra, desde peones hasta encargados generales.",
+      "El salario en especie es escaso y suele estar ligado a primas por terminación de obra o dietas de desplazamiento. No esperes seguros dentales pagados; aquí el extra viene por acabar el edificio a tiempo.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Servicios de alojamiento",
+    "division_cnae09": "55",
+    "titulo": "Conclusiones del sector: Servicios de alojamiento",
+    "conclusiones": [
+      "Variabilidad media. Los sueldos dependen significativamente de la categoría del establecimiento y del rango de gestión.",
+      "Es un sector con alta propensión a incluir manutención y alojamiento como salario en especie, especialmente en zonas turísticas. Es una gran ventaja: si trabajas en un hotel lejos de casa, a menudo te dan cama y comida gratis.",
+      "La brecha salarial de género es elevada (21.47%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Transporte terrestre y por tubería",
+    "division_cnae09": "49",
+    "titulo": "Conclusiones del sector: Transporte terrestre",
+    "conclusiones": [
+      "Dispersión media. Los complementos por nocturnidad, peligrosidad o transporte de larga distancia generan variaciones dentro de la escala salarial.",
+      "Los beneficios en especie suelen traducirse en dietas y abonos de peajes o combustible, más que en servicios de bienestar personal. Tu sueldo 'extra' se va en cubrir los gastos que tienes mientras estás en la carretera.",
+      "La brecha salarial de género es moderada (6.39%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades asociativas",
+    "division_cnae09": "94",
+    "titulo": "Conclusiones del sector: Actividades asociativas",
+    "conclusiones": [
+      "Variabilidad media. Refleja las diferencias de presupuesto y estructura entre grandes federaciones y pequeñas asociaciones locales.",
+      "Dada la naturaleza del sector, se suelen ofrecer beneficios como flexibilidad horaria o formación, aunque el salario en especie monetizable es bajo. Quizás no te den cheques comida, pero suelen ser más abiertos a que te organices tu tiempo.",
+      "La brecha salarial de género es elevada (17.14%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de creación, artísticas y espectáculos",
+    "division_cnae09": "90",
+    "titulo": "Conclusiones del sector: Actividades artísticas",
+    "conclusiones": [
+      "Variabilidad media. La dispersión se justifica por la naturaleza del trabajo por proyectos y la diversidad de cachés profesionales.",
+      "La retribución en especie es muy variable y a menudo incluye acceso a eventos, pases o materiales de producción. Tu beneficio extra es estar 'dentro' del mundillo, con entradas o contactos, más que un seguro médico privado.",
+      "La brecha salarial de género es reducida (1.56%) y favorece a los hombres, lo que indica una estructura retributiva relativamente equilibrada entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Reparación de ordenadores y artículos domésticos",
+    "division_cnae09": "95",
+    "titulo": "Conclusiones del sector: Reparación de ordenadores",
+    "conclusiones": [
+      "Variabilidad media. La formación técnica avanzada en electrónica informática permite acceder a rangos salariales superiores a los de reparación básica.",
+      "No existe una oferta estructurada de salario en especie, predominando la remuneración fija por servicio o jornada. Es un trabajo técnico puro donde lo que se valora es tu habilidad, y eso se paga con dinero, no con extras.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de bibliotecas, museos y culturales",
+    "division_cnae09": "91",
+    "titulo": "Conclusiones del sector: Bibliotecas y museos",
+    "conclusiones": [
+      "Variabilidad media. Existe un rango salarial moderado que diferencia a los perfiles de conservación técnica de los de atención al público.",
+      "El salario en especie es poco relevante, limitándose a veces a la formación continua financiada por la institución. El plus aquí es que te mantienen al día con cursos de formación, lo cual viene genial para tu currículum.",
+      "La brecha salarial de género es moderada (6.58%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Otras industrias manufactureras",
+    "division_cnae09": "32",
+    "titulo": "Conclusiones del sector: Otras industrias manufactureras",
+    "conclusiones": [
+      "Variabilidad media. La amplia variedad de productos fabricados genera una dispersión natural en las nóminas según el valor del bien producido.",
+      "Baja presencia de beneficios sociales no monetarios en las pymes que dominan este sector. Al ser empresas más pequeñas, no suelen tener presupuesto para cosas como seguros de salud grupales.",
+      "La brecha salarial de género es elevada (16.89%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Industria de la alimentación",
+    "division_cnae09": "10",
+    "titulo": "Conclusiones del sector: Industria de la alimentación",
+    "conclusiones": [
+      "Variabilidad media. La diferencia de tamaño entre obradores tradicionales y grandes multinacionales marca la dispersión salarial.",
+      "Es frecuente el acceso a productos de la empresa a precios de coste o gratuitamente, actuando como un salario en especie indirecto. ¡No está mal! Si trabajas en una fábrica de quesos o embutidos, seguro que tu despensa lo nota.",
+      "La brecha salarial de género es elevada (21.83%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Artes gráficas",
+    "division_cnae09": "18",
+    "titulo": "Conclusiones del sector: Artes gráficas",
+    "conclusiones": [
+      "Variabilidad media. Refleja el salto salarial entre los oficios de imprenta tradicional y los procesos de gestión digital avanzada.",
+      "La incidencia del salario en especie es marginal, centrada en la formación técnica en nuevo software de diseño. Tu beneficio es aprender a usar máquinas y programas caros que te hacen mejor profesional.",
+      "La brecha salarial de género es elevada (20.3%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de alquiler",
+    "division_cnae09": "77",
+    "titulo": "Conclusiones del sector: Actividades de alquiler",
+    "conclusiones": [
+      "Variabilidad media. El valor del activo alquilado y la gestión técnica necesaria para su mantenimiento influyen en los rangos salariales.",
+      "En el alquiler de vehículos, los empleados suelen disfrutar de tarifas preferenciales o uso ocasional de la flota como beneficio. Es la ventaja del sector: si necesitas un coche o una máquina para algo personal, te saldrá casi gratis.",
+      "La brecha salarial de género es moderada (12.63%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de productos metálicos",
+    "division_cnae09": "25",
+    "titulo": "Conclusiones del sector: Fabricación de productos metálicos",
+    "conclusiones": [
+      "Dispersión media. Los salarios están equilibrados pero permiten mejoras según el grado de oficialía y la peligrosidad del puesto.",
+      "El salario en especie no tiene un papel relevante en la negociación colectiva del metal. Todo está muy tabulado en el convenio oficial, así que los 'regalitos' o beneficios extra no suelen existir.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de juegos de azar",
+    "division_cnae09": "92",
+    "titulo": "Conclusiones del sector: Juegos de azar",
+    "conclusiones": [
+      "Variabilidad media. Las diferencias retributivas se encuentran principalmente en los niveles de seguridad y gestión de salas frente al personal de mesa.",
+      "A veces se incluyen servicios de catering o cenas para empleados debido a los horarios nocturnos intensivos. Como se trabaja mucho de noche, lo normal es que la empresa se encargue de que no te falte la cena.",
+      "La brecha salarial de género es elevada (28.45%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Recogida y tratamiento de aguas residuales",
+    "division_cnae09": "37",
+    "titulo": "Conclusiones del sector: Aguas residuales",
+    "conclusiones": [
+      "Variabilidad media. Refleja un sector con perfiles técnicos especializados frente a operarios de planta de tratamiento.",
+      "El salario en especie es muy limitado, dándose prioridad a pluses de peligrosidad o penosidad económica. Aquí no hay cheques guardería; lo que hay son pluses por trabajar en condiciones difíciles.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Reparación e instalación de maquinaria",
+    "division_cnae09": "33",
+    "titulo": "Conclusiones del sector: Reparación de maquinaria",
+    "conclusiones": [
+      "Variabilidad media. Es un sector donde el conocimiento técnico avanzado permite variaciones salariales importantes dentro del mismo rango.",
+      "Se pueden dar beneficios como el seguro de accidentes ampliado, pero el salario en especie flexible es escaso. Se centran en protegerte por si pasa algo en el taller, más que en darte extras de ocio.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Recogida y tratamiento de residuos",
+    "division_cnae09": "38",
+    "titulo": "Conclusiones del sector: Gestión de residuos",
+    "conclusiones": [
+      "Dispersión media. La complejidad del residuo gestionado y su valorización marca la diferencia en el salario de los trabajadores.",
+      "El componente de retribución no dineraria es prácticamente nulo, centrándose la remuneración en el salario base y nocturnidad. Es un sector de servicio público donde se cobra lo estipulado por ley, sin florituras.",
+      "La brecha salarial de género es moderada (12.22%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Comercio al por mayor",
+    "division_cnae09": "46",
+    "titulo": "Conclusiones del sector: Comercio al por mayor",
+    "conclusiones": [
+      "Variabilidad media. La dispersión se asocia directamente a los márgenes comerciales y a la especialización del producto distribuido.",
+      "Es frecuente el uso de coche de empresa y seguro médico en los perfiles comerciales de alto nivel. Si eres de los que cierran grandes tratos, prepárate para tener un buen coche y salud privada pagada.",
+      "La brecha salarial de género es moderada (13.69%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Ingeniería civil",
+    "division_cnae09": "42",
+    "titulo": "Conclusiones del sector: Ingeniería civil",
+    "conclusiones": [
+      "Variabilidad media. Aunque el nivel salarial es alto, la dispersión entre ingenieros recién titulados y seniors con firma es notable.",
+      "Se ofrecen paquetes de beneficios competitivos que incluyen planes de pensiones y seguros de salud colectivos. En las grandes constructoras cuidan mucho a sus ingenieros con estos extras para que no se vayan a la competencia.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades inmobiliarias",
+    "division_cnae09": "68",
+    "titulo": "Conclusiones del sector: Actividades inmobiliarias",
+    "conclusiones": [
+      "Variabilidad media. El sistema de comisiones por operación genera que no exista un sueldo estándar único dentro de las agencias.",
+      "El salario en especie se manifiesta en bonos por objetivos y, a veces, ayuda para el transporte o coche propio. El extra aquí depende de tu éxito: si vendes mucho, los premios pueden ser muy jugosos.",
+      "La brecha salarial de género es elevada (23.2%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de caucho y plásticos",
+    "division_cnae09": "22",
+    "titulo": "Conclusiones del sector: Caucho y plásticos",
+    "conclusiones": [
+      "Variabilidad media. Sector industrial con una dispersión equilibrada entre los puestos de producción masiva y control técnico de calidad.",
+      "Baja incidencia de retribución flexible, centrando la estrategia en la retribución directa por turnos y antigüedad. Como en casi toda la industria, lo que cuenta es llevar años en la empresa y el turno que hagas.",
+      "La brecha salarial de género es elevada (16.42%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Educación",
+    "division_cnae09": "85",
+    "titulo": "Conclusiones del sector: Educación",
+    "conclusiones": [
+      "Variabilidad media. Refleja las diferencias entre las distintas etapas educativas y la coexistencia de los sectores público y privado.",
+      "En centros privados, el salario en especie puede incluir la gratuidad de la matrícula para hijos o seguro de salud. Es un puntazo: si eres profe en un cole privado, tus hijos pueden estudiar allí gratis, lo que ahorra un dineral.",
+      "La brecha salarial de género es moderada (9.69%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Otras actividades profesionales",
+    "division_cnae09": "74",
+    "titulo": "Conclusiones del sector: Otras actividades profesionales",
+    "conclusiones": [
+      "Variabilidad media. Incluye perfiles de consultoría muy diversos, lo que justifica una dispersión salarial moderada según el nicho.",
+      "Aparece con fuerza la retribución flexible (cheques guardería, formación, seguro médico) para atraer talento especializado. En este mundillo de consultores se lleva mucho el 'sueldo a la carta' para que cada uno elija sus beneficios.",
+      "La brecha salarial de género es elevada (20.51%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Almacenamiento",
+    "division_cnae09": "52",
+    "titulo": "Conclusiones del sector: Almacenamiento",
+    "conclusiones": [
+      "Variabilidad media. La progresiva automatización está creando una brecha salarial entre operarios de almacén y técnicos de sistemas logísticos.",
+      "El salario en especie no es habitual, salvo servicios de transporte gratuito a los centros logísticos alejados de la ciudad. A veces, la empresa pone el bus para que no tengas que gastar en gasolina para llegar a la nave.",
+      "La brecha salarial de género es moderada (12.7%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Otros productos minerales no metálicos",
+    "division_cnae09": "23",
+    "titulo": "Conclusiones del sector: Productos minerales",
+    "conclusiones": [
+      "Variabilidad media. Sigue el patrón de la industria de materiales de construcción con sueldos estables pero con escalas jerárquicas claras.",
+      "No existe una oferta estructurada de beneficios no dinerarios más allá de la seguridad social obligatoria. Es un sector muy tradicional donde los beneficios sociales modernos todavía no han aterrizado.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Industria del papel",
+    "division_cnae09": "17",
+    "titulo": "Conclusiones del sector: Industria del papel",
+    "conclusiones": [
+      "Variabilidad media. La dispersión salarial es consecuencia de la alta especialización requerida para el manejo de maquinaria de papel a gran escala.",
+      "La retribución en especie es escasa, priorizando los pluses por peligrosidad y nocturnidad en planta. Se paga más por el esfuerzo y el horario que por medio de beneficios creativos.",
+      "La brecha salarial de género es elevada (18.99%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Agencias de viajes",
+    "division_cnae09": "79",
+    "titulo": "Conclusiones del sector: Agencias de viajes",
+    "conclusiones": [
+      "Variabilidad media. La dispersión se encuentra entre los puestos de atención directa y los gestores de cuentas de empresa o grandes eventos.",
+      "El salario en especie estrella son los viajes de familiarización (famtrip) y descuentos agresivos en vacaciones. ¡Es el paraíso si te gusta viajar! Tu trabajo te permite conocer sitios gratis para luego poder venderlos mejor.",
+      "La brecha salarial de género es elevada (24.04%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Transporte marítimo",
+    "division_cnae09": "50",
+    "titulo": "Conclusiones del sector: Transporte marítimo",
+    "conclusiones": [
+      "Variabilidad media. La alta especialización de la tripulación técnica oficial eleva la dispersión respecto al personal de servicios a bordo.",
+      "El alojamiento y la manutención completa durante las campañas en el mar actúan como un potente salario en especie. Prácticamente no tienes gastos mientras estás embarcado, así que el sueldo te queda íntegro para ahorrar.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de maquinaria",
+    "division_cnae09": "28",
+    "titulo": "Conclusiones del sector: Fabricación de maquinaria",
+    "conclusiones": [
+      "Variabilidad media. La ingeniería de diseño industrial y el montaje técnico avanzado definen los diferentes niveles retributivos del sector.",
+      "Se detectan beneficios como seguros de vida y, en ocasiones, formación de alto nivel técnica pagada por la empresa. Valoran que seas un experto y por eso invierten en que sigas aprendiendo sin que te cueste un euro.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Cine y televisión",
+    "division_cnae09": "59",
+    "titulo": "Conclusiones del sector: Cine y televisión",
+    "conclusiones": [
+      "Variabilidad media. La dispersión salarial refleja la gran diversidad de perfiles técnicos y creativos que operan bajo diferentes convenios.",
+      "Es frecuente el pago de dietas y alojamientos por rodajes fuera de la sede, además de acceso a tecnología de la empresa. Trabajar aquí mola porque a veces te pagan los gastos de viaje a sitios increíbles por el rodaje.",
+      "La brecha salarial de género es elevada (15.4%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Servicios de información",
+    "division_cnae09": "63",
+    "titulo": "Conclusiones del sector: Servicios de información",
+    "conclusiones": [
+      "Variabilidad media. Los analistas de Big Data y gestores de información técnica marcan la parte alta de la dispersión del sector.",
+      "Fuerte presencia de retribución flexible: tiques restaurante, seguro de salud y planes de formación digital. Son empresas modernas que saben que para tener a los mejores informáticos hay que darles muchos extras.",
+      "La brecha salarial de género es moderada (12.28%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de bebidas",
+    "division_cnae09": "11",
+    "titulo": "Conclusiones del sector: Fabricación de bebidas",
+    "conclusiones": [
+      "Variabilidad media. Existe una dispersión clara entre el personal de embotellado y los roles de enología o control de calidad industrial.",
+      "Es habitual recibir lotes de producto de forma periódica o descuentos especiales para empleados. ¡Tu nevera siempre estará llena! Es el beneficio típico de trabajar fabricando algo que a todo el mundo le gusta beber.",
+      "La brecha salarial de género es moderada (9.6%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Distribución de agua",
+    "division_cnae09": "36",
+    "titulo": "Conclusiones del sector: Distribución de agua",
+    "conclusiones": [
+      "Variabilidad media. Los perfiles de ingeniería hidráulica y mantenimiento de infraestructuras críticas generan la dispersión en este sector.",
+      "El salario en especie es limitado, centrándose los beneficios en la estabilidad y planes de jubilación a largo plazo. No esperes regalos a corto plazo, pero sí una seguridad para cuando seas mayor.",
+      "La brecha salarial de género es reducida (1.19%) y favorece a los hombres, lo que indica una estructura retributiva relativamente equilibrada entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Servicios de arquitectura e ingeniería",
+    "division_cnae09": "71",
+    "titulo": "Conclusiones del sector: Arquitectura e ingeniería",
+    "conclusiones": [
+      "Variabilidad media. La firma de proyectos técnicos y la responsabilidad legal derivada son los factores que más dispersan los salarios.",
+      "Es muy común el seguro de responsabilidad civil pagado y el acceso a másteres de especialización. La empresa se asegura de que estés protegido legalmente y de que seas el más listo de la clase.",
+      "La brecha salarial de género es elevada (18%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Administración Pública",
+    "division_cnae09": "84",
+    "titulo": "Conclusiones del sector: Administración Pública",
+    "conclusiones": [
+      "Variabilidad media. Se justifica por la extensa pirámide de grupos funcionariales que van desde servicios base hasta altos cuerpos del Estado.",
+      "Aunque el salario en especie monetario es bajo, los beneficios en forma de estabilidad y días de asuntos propios son muy valorados. El 'extra' aquí no es dinero, sino tiempo y tranquilidad, que también valen lo suyo.",
+      "La brecha salarial de género es moderada (9.89%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de equipo eléctrico",
+    "division_cnae09": "27",
+    "titulo": "Conclusiones del sector: Fabricación de equipo eléctrico",
+    "conclusiones": [
+      "Variabilidad media. La dispersión salarial está alineada con los estándares competitivos de la industria de bienes de equipo.",
+      "Se ofrecen seguros médicos colectivos y en algunos casos ayudas para la formación de los hijos de los empleados. Son sectores potentes que ayudan a las familias de sus trabajadores con estos beneficios sociales.",
+      "La brecha salarial de género es elevada (16.61%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Auxiliares financieros",
+    "division_cnae09": "66",
+    "titulo": "Conclusiones del sector: Auxiliares financieros",
+    "conclusiones": [
+      "Variabilidad media. Los consultores especializados y analistas de riesgos marcan la dispersión salarial frente a perfiles administrativos.",
+      "Fuerte uso de la retribución flexible y seguros de salud de alta gama para atraer a analistas senior. Si eres un hacha con los números, te pondrán alfombra roja con los mejores beneficios privados.",
+      "La brecha salarial de género es elevada (26.87%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación informática y electrónica",
+    "division_cnae09": "26",
+    "titulo": "Conclusiones del sector: Fabricación informática",
+    "conclusiones": [
+      "Variabilidad media. Al ser un sector de alto componente tecnológico, los sueldos presentan una dispersión técnica propia de perfiles cualificados.",
+      "Aparece el salario en especie vinculado a equipos tecnológicos personales y formación continua certificada. Trabajarás con lo último de lo último, y la empresa te pagará los cursos para que sepas manejarlo.",
+      "La brecha salarial de género es elevada (16.18%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Metalurgia",
+    "division_cnae09": "24",
+    "titulo": "Conclusiones del sector: Metalurgia",
+    "conclusiones": [
+      "Variabilidad media. Sector con salarios muy definidos donde la dispersión se produce por especialidad técnica y antigüedad en planta.",
+      "El salario en especie es casi inexistente, primando los beneficios sociales históricos como las ayudas al estudio o economatos. Es un sector con mucha historia donde los beneficios se mantienen muy clásicos.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Publicidad y estudios de mercado",
+    "division_cnae09": "73",
+    "titulo": "Conclusiones del sector: Publicidad",
+    "conclusiones": [
+      "Variabilidad media. Los directores creativos de alto impacto y gestores de cuentas clave generan la dispersión dentro de las agencias.",
+      "Uso extensivo de tiques restaurante, fruta en la oficina y actividades de team-building como parte de la cultura empresarial. Se lleva mucho el bienestar en la oficina: comer bien y llevarse bien con los compis mola, ¿no?",
+      "La brecha salarial de género es elevada (27.71%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Edición",
+    "division_cnae09": "58",
+    "titulo": "Conclusiones del sector: Edición",
+    "conclusiones": [
+      "Variabilidad media. La dispersión salarial está muy influenciada por el volumen de la editorial y el canal de distribución predominante.",
+      "Suele incluirse el acceso gratuito a las publicaciones de la editorial y formación en herramientas de edición digital. Si te gusta leer o el mundo digital, estarás en tu salsa con estos extras.",
+      "La brecha salarial de género es moderada (14.03%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de vehículos de motor",
+    "division_cnae09": "29",
+    "titulo": "Conclusiones del sector: Fabricación de vehículos",
+    "conclusiones": [
+      "Variabilidad media. La estructura jerárquica de las grandes plantas de automoción mantiene la dispersión salarial en niveles controlados.",
+      "Es el sector por excelencia para el renting subvencionado de coches para empleados y seguros médicos de calidad. ¡Es genial! Puedes tener un coche nuevo cada poco tiempo gracias a los planes de tu empresa.",
+      "La brecha salarial de género es elevada (16.38%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Sedes centrales y consultoría",
+    "division_cnae09": "70",
+    "titulo": "Conclusiones del sector: Sedes centrales",
+    "conclusiones": [
+      "Variabilidad media. La alta concentración de puestos de mando eleva la media, pero mantiene una dispersión equilibrada entre los directivos.",
+      "Paquetes de beneficios 'Premium': coche de empresa, seguros de salud internacionales y planes de pensiones privados. Aquí se juega en otra liga y los beneficios sociales son los mejores que puedes encontrar.",
+      "La brecha salarial de género es elevada (26%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades jurídicas y de contabilidad",
+    "division_cnae09": "69",
+    "titulo": "Conclusiones del sector: Actividades jurídicas",
+    "conclusiones": [
+      "Variabilidad media. La diferencia entre socios de bufetes consolidados y administrativos contables explica la dispersión en este sector.",
+      "Seguros médicos y formación jurídica continua son los beneficios más comunes en los despachos medianos y grandes. La empresa cuida que no te pongas enfermo y que seas el que mejor se sabe las leyes.",
+      "La brecha salarial de género es elevada (36.07%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Programación y consultoría informática",
+    "division_cnae09": "62",
+    "titulo": "Conclusiones del sector: Programación e informática",
+    "conclusiones": [
+      "Variabilidad media. La escasez de talento en ciertos lenguajes de programación genera picos salariales que aumentan la dispersión.",
+      "Máximo exponente de la retribución flexible: desde equipo de alta gama hasta seguros médicos y presupuesto para formación libre. Puedes configurar tu sueldo casi como quieras, añadiendo los extras que más te gusten.",
+      "La brecha salarial de género es moderada (12.17%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Investigación y desarrollo",
+    "division_cnae09": "72",
+    "titulo": "Conclusiones del sector: I+D",
+    "conclusiones": [
+      "Variabilidad media. La trayectoria científica y la capacidad de gestión de proyectos de innovación marcan los niveles salariales.",
+      "El salario en especie se centra en la asistencia a congresos internacionales y formación de postgrado financiada. Tu beneficio es viajar por el mundo para contar tus descubrimientos mientras la empresa paga.",
+      "La brecha salarial de género es moderada (11%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Industria química",
+    "division_cnae09": "20",
+    "titulo": "Conclusiones del sector: Industria química",
+    "conclusiones": [
+      "Variabilidad media. Es un sector industrial muy regulado con salarios competitivos en el que la dispersión sigue patrones estables.",
+      "Incluye a menudo seguros de vida, planes de pensiones y en ocasiones servicios de comedor subvencionado. Es un sector que cuida mucho al empleado a largo plazo y también en el día a día.",
+      "La brecha salarial de género es moderada (11.77%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Transporte aéreo",
+    "division_cnae09": "51",
+    "titulo": "Conclusiones del sector: Transporte aéreo",
+    "conclusiones": [
+      "Variabilidad alta (hasta 60.000€). Existe una brecha retributiva masiva entre el personal de vuelo cualificado y el personal de servicios terrestres.",
+      "El salario en especie estrella son los billetes de avión gratuitos o con grandes descuentos (ID90) para empleados y familiares. Es la mayor ventaja de todas: ¡puedes recorrer el mundo casi gratis en tus vacaciones!",
+      "La brecha salarial de género es moderada (14.19%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades sanitarias",
+    "division_cnae09": "86",
+    "titulo": "Conclusiones del sector: Actividades sanitarias",
+    "conclusiones": [
+      "Variabilidad alta. La dispersión se fundamenta en la gran diferencia entre las especialidades médicas de alto rango y el personal asistencial base.",
+      "En el sector privado es habitual el seguro médico de alta gama y formación continua en centros de prestigio. Te cuidan la salud a tope y se aseguran de que seas un profesional de primera.",
+      "La brecha salarial de género es elevada (20.66%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Telecomunicaciones",
+    "division_cnae09": "61",
+    "titulo": "Conclusiones del sector: Telecomunicaciones",
+    "conclusiones": [
+      "Variabilidad alta. La diferencia entre técnicos de mantenimiento de red y los ingenieros de sistemas avanzados genera una dispersión muy notable.",
+      "Incluye conectividad gratuita (internet/móvil) y amplios paquetes de retribución flexible con seguro médico. Como trabajas en 'teleco', lo mínimo es que tengas la mejor fibra y móvil gratis en casa.",
+      "La brecha salarial de género es moderada (7.83%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de productos farmacéuticos",
+    "division_cnae09": "21",
+    "titulo": "Conclusiones del sector: Industria farmacéutica",
+    "conclusiones": [
+      "Variabilidad alta. El valor estratégico de los puestos de investigación y patentes genera sueldos que distan enormemente de la fabricación básica.",
+      "Paquetes completos de beneficios sociales: seguro de salud, plan de pensiones, tiques guardería y ayudas al estudio. Es de los sectores que mejor 'miman' a sus empleados con todo tipo de extras.",
+      "La brecha salarial de género es moderada (9.5%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Fabricación de otro material de transporte",
+    "division_cnae09": "30",
+    "titulo": "Conclusiones del sector: Otro material de transporte",
+    "conclusiones": [
+      "Variabilidad alta. En subsectores como la aeronáutica, la cualificación de los ingenieros expertos dispara la dispersión respecto al resto de la plantilla.",
+      "Seguros de accidentes muy potentes y acceso a formación técnica internacional de primer nivel. Estarás muy protegido y siempre aprendiendo lo último de lo último en tecnología de transporte.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Radio y televisión",
+    "division_cnae09": "60",
+    "titulo": "Conclusiones del sector: Radio y televisión",
+    "conclusiones": [
+      "Variabilidad alta. Se caracteriza por sueldos muy elevados para las figuras mediáticas frente a las escalas salariales del personal técnico operativo.",
+      "El salario en especie puede incluir desde maquillaje y vestuario hasta coche de empresa para los perfiles de alta visibilidad. Depende de quién seas, ¡pueden hasta ponerte el coche para ir al estudio!",
+      "La brecha salarial de género es moderada (7.86%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Seguros y fondos de pensiones",
+    "division_cnae09": "65",
+    "titulo": "Conclusiones del sector: Seguros",
+    "conclusiones": [
+      "Variabilidad alta. La gestión de carteras de riesgo y grandes fondos genera bonificaciones por objetivos que amplían mucho la dispersión salarial.",
+      "Prácticamente todos los empleados cuentan con seguro médico y plan de pensiones de primer nivel como beneficio estándar. En casa del herrero, ¡cuchillo de acero! Si vendes seguros, lo lógico es que tengas los mejores.",
+      "La brecha salarial de género es elevada (25%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Suministro de energía eléctrica y gas",
+    "division_cnae09": "35",
+    "titulo": "Conclusiones del sector: Energía",
+    "conclusiones": [
+      "Variabilidad alta. Sector estratégico donde los puestos de alta dirección técnica tienen una dispersión económica muy amplia respecto al personal operativo.",
+      "Suele incluirse un descuento muy importante en la factura de la luz o gas del empleado (tarifa de empleado). Es un beneficio directo que se nota muchísimo en los gastos de casa a final de mes.",
+      "La brecha salarial de género es moderada (13.82%) y favorece a los hombres, lo que sugiere la existencia de ciertas diferencias retributivas estructurales entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Servicios financieros",
+    "division_cnae09": "64",
+    "titulo": "Conclusiones del sector: Servicios financieros",
+    "conclusiones": [
+      "Variabilidad alta. Presenta una de las mayores dispersiones salariales debido a las retribuciones de la banca de inversión y alta dirección financiera.",
+      "Acceso a préstamos e hipotecas con tipos de interés bajísimos para empleados, además de seguros de salud y jubilación. Es el mejor sector si quieres comprarte una casa, porque el banco te prestará el dinero mucho más barato.",
+      "La brecha salarial de género es elevada (15.25%) y favorece a los hombres, lo que refleja desigualdades significativas en la remuneración entre hombres y mujeres en este sector."
+    ]
+  },
+  {
+    "sector": "Industrias extractivas",
+    "division_cnae09": "B",
+    "titulo": "Conclusiones del sector: Industrias extractivas",
+    "conclusiones": [
+      "Nota: Sector no significativo en volumen de datos. Presenta una variabilidad alta debido a la disparidad entre los roles técnicos de extracción y la gerencia de explotación.",
+      "No se dispone de información detallada sobre los beneficios en especie de este sector en los registros actuales.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Industria del tabaco",
+    "division_cnae09": "12",
+    "titulo": "Conclusiones del sector: Industria del tabaco",
+    "conclusiones": [
+      "Nota: Sector no significativo en volumen de datos. La variabilidad es alta reflejando una división marcada entre la producción masiva y la dirección corporativa del sector.",
+      "No se dispone de información detallada sobre los beneficios en especie de este sector en los registros actuales.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Coquerías y refino de petróleo",
+    "division_cnae09": "19",
+    "titulo": "Conclusiones del sector: Refino de petróleo",
+    "conclusiones": [
+      "Nota: Sector no significativo en volumen de datos. Muestra una variabilidad extrema debido a la altísima cualificación técnica requerida en puestos de mando frente a la planta.",
+      "No se dispone de información detallada sobre los beneficios en especie de este sector en los registros actuales.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  },
+  {
+    "sector": "Actividades de descontaminación",
+    "division_cnae09": "39",
+    "titulo": "Conclusiones del sector: Descontaminación",
+    "conclusiones": [
+      "Nota: Sector no significativo en volumen de datos. La variabilidad es media-baja, condicionada por la especificidad técnica necesaria para proyectos ambientales concretos.",
+      "No se dispone de información detallada sobre los beneficios en especie de este sector en los registros actuales.",
+      "No se dispone de información suficiente sobre la brecha salarial de género en este sector."
+    ]
+  }
+]

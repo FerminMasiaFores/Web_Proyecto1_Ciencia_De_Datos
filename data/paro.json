@@ -1,0 +1,290 @@
+[
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2024,
+    "Total": 28.23
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2023,
+    "Total": 25.04
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2022,
+    "Total": 27.77
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2021,
+    "Total": 30.21
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Mujeres",
+    "Periodo": 2024,
+    "Total": 35.83
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Mujeres",
+    "Periodo": 2023,
+    "Total": 31.44
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Mujeres",
+    "Periodo": 2022,
+    "Total": 35.95
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Mujeres",
+    "Periodo": 2021,
+    "Total": 39.11
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Hombres",
+    "Periodo": 2024,
+    "Total": 23.49
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Hombres",
+    "Periodo": 2023,
+    "Total": 20.89
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Hombres",
+    "Periodo": 2022,
+    "Total": 23.42
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Menos que primaria (nivel 0)",
+    "Sexo": "Hombres",
+    "Periodo": 2021,
+    "Total": 25.03
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2024,
+    "Total": 16.52
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2023,
+    "Total": 17.66
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2022,
+    "Total": 18.94
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2021,
+    "Total": 21.12
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Mujeres",
+    "Periodo": 2024,
+    "Total": 20.3
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Mujeres",
+    "Periodo": 2023,
+    "Total": 21.89
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Mujeres",
+    "Periodo": 2022,
+    "Total": 23.47
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Mujeres",
+    "Periodo": 2021,
+    "Total": 26.11
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Hombres",
+    "Periodo": 2024,
+    "Total": 14.05
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Hombres",
+    "Periodo": 2023,
+    "Total": 14.9
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Hombres",
+    "Periodo": 2022,
+    "Total": 16.02
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación primaria y primera etapa de educación secundaria  (niveles 1 y 2)",
+    "Sexo": "Hombres",
+    "Periodo": 2021,
+    "Total": 17.94
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2024,
+    "Total": 12.28
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2023,
+    "Total": 13.28
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2022,
+    "Total": 14.16
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2021,
+    "Total": 16.14
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Mujeres",
+    "Periodo": 2024,
+    "Total": 13.91
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Mujeres",
+    "Periodo": 2023,
+    "Total": 15.49
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Mujeres",
+    "Periodo": 2022,
+    "Total": 17.07
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Mujeres",
+    "Periodo": 2021,
+    "Total": 18.9
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Hombres",
+    "Periodo": 2024,
+    "Total": 10.84
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Hombres",
+    "Periodo": 2023,
+    "Total": 11.33
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Hombres",
+    "Periodo": 2022,
+    "Total": 11.66
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Segunda etapa de educación secundaria y educación postsecundaria no superior (niveles 3 y 4)",
+    "Sexo": "Hombres",
+    "Periodo": 2021,
+    "Total": 13.67
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2024,
+    "Total": 6.9
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2023,
+    "Total": 7.39
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2022,
+    "Total": 7.72
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Ambos sexos",
+    "Periodo": 2021,
+    "Total": 9.29
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Mujeres",
+    "Periodo": 2024,
+    "Total": 7.79
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Mujeres",
+    "Periodo": 2023,
+    "Total": 8.55
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Mujeres",
+    "Periodo": 2022,
+    "Total": 8.87
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Mujeres",
+    "Periodo": 2021,
+    "Total": 10.38
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Hombres",
+    "Periodo": 2024,
+    "Total": 5.91
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Hombres",
+    "Periodo": 2023,
+    "Total": 6.07
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Hombres",
+    "Periodo": 2022,
+    "Total": 6.41
+  },
+  {
+    "Nivel.de.formación.alcanzado": "Educación superior (terciaria)(niveles 5 a 8)",
+    "Sexo": "Hombres",
+    "Periodo": 2021,
+    "Total": 8.06
+  }
+]

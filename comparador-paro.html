@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Comparador de tasa de paro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="comparadores.html" class="nav-link">Comparadores</a>
+      <a href="conclusiones.html" class="nav-link">Conclusiones</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Comparador de tasa de paro</h1>
+    <p>Compara la tasa de paro según el nivel de formación alcanzado.</p>
+
+    <section class="panel">
+      <div class="field autocomplete">
+        <label for="nivel1">Primer nivel de formación</label>
+        <input type="text" id="nivel1" placeholder="Escribe un nivel..." autocomplete="off" />
+        <div id="sugerencias1" class="sugerencias hidden"></div>
+      </div>
+
+      <div class="field autocomplete">
+        <label for="nivel2">Segundo nivel de formación</label>
+        <input type="text" id="nivel2" placeholder="Escribe un nivel..." autocomplete="off" />
+        <div id="sugerencias2" class="sugerencias hidden"></div>
+      </div>
+
+      <button id="compararBtn" type="button">Comparar</button>
+    </section>
+
+    <section id="resultado" class="resultado-comparador hidden">
+
+      <div class="resumen-comparador">
+        <div class="card">
+          <h2 id="nombre1"></h2>
+
+          <div class="card-info">
+            <p><strong>Tasa de paro:</strong> <span id="paro1"></span></p>
+            <p><strong>Sexo:</strong> <span id="sexo1"></span></p>
+            <p><strong>Periodo:</strong> <span id="periodo1"></span></p>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2 id="nombre2"></h2>
+
+          <div class="card-info">
+            <p><strong>Tasa de paro:</strong> <span id="paro2"></span></p>
+            <p><strong>Sexo:</strong> <span id="sexo2"></span></p>
+            <p><strong>Periodo:</strong> <span id="periodo2"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card destacada resultado-destacado">
+        <h2>Resultado de la comparación</h2>
+        <p id="diferencia"></p>
+      </div>
+
+    </section>
+
+    <section id="graficoComparacion" class="card grafico-card hidden">
+      <h2>Gráfico comparativo</h2>
+      <canvas id="grafico"></canvas>
+    </section>
+
+    <section id="conclusionesComparacion" class="hidden conclusiones-comparacion">
+      <div class="card">
+        <h2 id="tituloConclusion"></h2>
+        <p id="textoConclusion"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script-paro.js"></script>
+</body>
+</html>

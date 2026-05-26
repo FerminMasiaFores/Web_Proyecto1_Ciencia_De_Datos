@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Comparador de países</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="comparadores.html" class="nav-link">Comparadores</a>
+      <a href="conclusiones.html" class="nav-link">Conclusiones</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Comparador de países</h1>
+    <p>Compara el salario mínimo entre países según los datos disponibles.</p>
+
+    <section class="panel">
+      <div class="field autocomplete">
+        <label for="pais1">Primer país</label>
+        <input type="text" id="pais1" placeholder="Escribe un país..." autocomplete="off" />
+        <div id="sugerencias1" class="sugerencias hidden"></div>
+      </div>
+
+      <div class="field autocomplete">
+        <label for="pais2">Segundo país</label>
+        <input type="text" id="pais2" placeholder="Escribe un país..." autocomplete="off" />
+        <div id="sugerencias2" class="sugerencias hidden"></div>
+      </div>
+
+      <button id="compararBtn" type="button">Comparar</button>
+    </section>
+
+    <section id="resultado" class="resultado-paises hidden">
+      <div class="resumen-paises">
+        <div class="card card-pais">
+          <h2 id="nombre1"></h2>
+
+          <div class="card-info">
+            <p><strong>Salario mínimo:</strong> <span id="salario1"></span></p>
+            <p><strong>Periodo:</strong> <span id="periodo1"></span></p>
+            <p><strong>Moneda:</strong> <span id="moneda1"></span></p>
+          </div>
+        </div>
+
+        <div class="card card-pais">
+          <h2 id="nombre2"></h2>
+
+          <div class="card-info">
+            <p><strong>Salario mínimo:</strong> <span id="salario2"></span></p>
+            <p><strong>Periodo:</strong> <span id="periodo2"></span></p>
+            <p><strong>Moneda:</strong> <span id="moneda2"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card destacada resultado-tabla-paises">
+        <h2>Resultado de la comparación</h2>
+        <p id="resumenDiferencia"></p>
+      </div>
+    </section>
+
+    <section id="graficoComparacion" class="card grafico-card hidden">
+      <h2>Evolución del salario mínimo</h2>
+      <canvas id="grafico"></canvas>
+    </section>
+
+    <section id="conclusionesComparacion" class="hidden conclusiones-comparacion">
+      <div class="card">
+        <h2 id="tituloConclusion1"></h2>
+        <p id="textoConclusion1"></p>
+      </div>
+
+      <div class="card">
+        <h2 id="tituloConclusion2"></h2>
+        <p id="textoConclusion2"></p>
+      </div>
+    </section>
+
+    <section id="tablaSemestralPaises" class="card tabla-card hidden">
+      <h2>Tabla semestral</h2>
+      <div id="tablaComparacionPaises" class="tabla-comparacion"></div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script-paises.js"></script>
+</body>
+</html>

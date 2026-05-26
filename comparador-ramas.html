@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Comparador de ramas universitarias</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="comparadores.html" class="nav-link">Comparadores</a>
+      <a href="conclusiones.html" class="nav-link">Conclusiones</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Comparador de ramas universitarias</h1>
+    <p>Compara el número de estudiantes por rama de conocimiento, sexo y tipo de universidad.</p>
+
+    <section class="panel">
+      <div class="field autocomplete">
+        <label for="rama1">Primera rama</label>
+        <input type="text" id="rama1" placeholder="Escribe una rama..." autocomplete="off" />
+        <div id="sugerencias1" class="sugerencias hidden"></div>
+      </div>
+
+      <div class="field autocomplete">
+        <label for="rama2">Segunda rama</label>
+        <input type="text" id="rama2" placeholder="Escribe una rama..." autocomplete="off" />
+        <div id="sugerencias2" class="sugerencias hidden"></div>
+      </div>
+
+      <button id="compararBtn" type="button">Comparar</button>
+    </section>
+
+    <section id="resultado" class="resultado-comparador hidden">
+
+      <div class="resumen-comparador">
+        <div class="card">
+          <h2 id="nombre1"></h2>
+
+          <div class="card-info">
+            <p><strong>Total estudiantes:</strong> <span id="total1"></span></p>
+            <p><strong>Hombres:</strong> <span id="hombres1"></span></p>
+            <p><strong>Mujeres:</strong> <span id="mujeres1"></span></p>
+            <p><strong>Universidad pública:</strong> <span id="publicas1"></span></p>
+            <p><strong>Universidad privada:</strong> <span id="privadas1"></span></p>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2 id="nombre2"></h2>
+
+          <div class="card-info">
+            <p><strong>Total estudiantes:</strong> <span id="total2"></span></p>
+            <p><strong>Hombres:</strong> <span id="hombres2"></span></p>
+            <p><strong>Mujeres:</strong> <span id="mujeres2"></span></p>
+            <p><strong>Universidad pública:</strong> <span id="publicas2"></span></p>
+            <p><strong>Universidad privada:</strong> <span id="privadas2"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card destacada resultado-destacado">
+        <h2>Resultado de la comparación</h2>
+        <p id="diferencia"></p>
+      </div>
+
+    </section>
+
+    <section id="graficoComparacion" class="card grafico-card hidden">
+      <h2>Gráfico comparativo</h2>
+      <canvas id="grafico"></canvas>
+    </section>
+
+    <section id="conclusionesComparacion" class="hidden conclusiones-comparacion">
+      <div class="card">
+        <h2 id="tituloConclusion1"></h2>
+        <p id="textoConclusion1"></p>
+      </div>
+
+      <div class="card">
+        <h2 id="tituloConclusion2"></h2>
+        <p id="textoConclusion2"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script-ramas.js"></script>
+</body>
+</html>

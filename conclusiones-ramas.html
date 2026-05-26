@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conclusiones por ramas universitarias</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="comparadores.html" class="nav-link">Comparadores</a>
+      <a href="conclusiones.html" class="nav-link">Conclusiones</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Conclusiones por ramas universitarias</h1>
+    <p>Busca una rama de conocimiento para consultar sus conclusiones principales.</p>
+
+    <section class="panel">
+      <div class="field autocomplete buscador-sector">
+        <label for="buscadorRama">Buscar rama universitaria</label>
+        <input 
+          type="text" 
+          id="buscadorRama" 
+          placeholder="Ejemplo: ciencias, ingeniería, salud..." 
+          autocomplete="off" 
+        />
+        <div id="sugerenciasRama" class="sugerencias hidden"></div>
+      </div>
+    </section>
+
+    <section id="todasLasConclusiones" class="conclusiones-comparacion"></section>
+  </main>
+
+  <script src="conclusiones-ramas.js"></script>
+</body>
+</html>

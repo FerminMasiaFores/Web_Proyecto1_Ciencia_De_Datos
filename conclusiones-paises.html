@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conclusiones por países</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-link">Inicio</a>
+      <a href="comparadores.html" class="nav-link">Comparadores</a>
+      <a href="conclusiones.html" class="nav-link">Conclusiones</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <h1>Conclusiones por países</h1>
+    <p>Busca un país para consultar la conclusión sobre la evolución de su salario mínimo.</p>
+
+    <section class="panel">
+      <div class="field autocomplete buscador-sector">
+        <label for="buscadorPais">Buscar país</label>
+        <input type="text" id="buscadorPais" placeholder="Escribe un país..." autocomplete="off" />
+        <div id="sugerenciasPais" class="sugerencias hidden"></div>
+      </div>
+    </section>
+
+    <section id="todasLasConclusiones" class="conclusiones-comparacion"></section>
+  </main>
+
+  <script src="conclusiones-paises.js"></script>
+</body>
+</html>

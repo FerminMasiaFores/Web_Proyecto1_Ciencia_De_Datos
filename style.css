@@ -1,0 +1,918 @@
+/* =========================
+   RESET GENERAL
+========================= */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+:root {
+  --bg-main: #080d18;
+  --bg-body-1: #0b1120;
+  --bg-body-2: #111827;
+
+  --bg-navbar: rgba(15, 23, 42, 0.96);
+  --bg-panel: rgba(25, 38, 61, 0.98);
+  --bg-card: rgba(27, 39, 62, 0.98);
+  --bg-card-dark: rgba(18, 27, 43, 0.98);
+  --bg-card-alt: rgba(22, 34, 52, 0.98);
+
+  --text-main: #f8fafc;
+  --text-soft: #d6dee9;
+  --text-muted: #94a3b8;
+
+  --accent: #d4af37;
+  --accent-dark: #a97916;
+  --accent-bronze: #8b6f2a;
+  --accent-soft: rgba(212, 175, 55, 0.11);
+  --accent-border: rgba(212, 175, 55, 0.34);
+
+  --border-soft: rgba(148, 163, 184, 0.28);
+  --border-light: rgba(255, 255, 255, 0.05);
+
+  --shadow-soft: 0 18px 45px rgba(0, 0, 0, 0.32);
+  --shadow-hover: 0 20px 46px rgba(0, 0, 0, 0.38);
+  --shadow-strong: 0 24px 54px rgba(0, 0, 0, 0.44);
+}
+
+html {
+  overflow-y: scroll;
+  scrollbar-gutter: stable;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: #475569 #111827;
+}
+
+html::-webkit-scrollbar {
+  width: 12px;
+}
+
+html::-webkit-scrollbar-track {
+  background: #111827;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 10px;
+  border: 2px solid #111827;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* =========================
+   FONDO GENERAL UNIFICADO
+========================= */
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 20% 12%, rgba(73, 94, 130, 0.22), transparent 32%),
+    radial-gradient(circle at 88% 20%, rgba(41, 59, 92, 0.18), transparent 34%),
+    linear-gradient(180deg, #111a2b 0%, #0d1524 45%, #080e19 100%);
+  background-attachment: fixed;
+  color: var(--text-main);
+}
+
+/* =========================
+   NAVBAR
+========================= */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 500;
+  background:
+    linear-gradient(180deg, rgba(22, 31, 49, 0.98), rgba(15, 23, 42, 0.96));
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(148, 163, 184, 0.26);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.34);
+}
+
+.nav-container {
+  max-width: 1160px;
+  margin: 0 auto;
+  display: flex;
+  gap: 12px;
+  padding: 14px 22px;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--text-soft);
+  font-weight: 700;
+  font-size: 15px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-color: rgba(212, 175, 55, 0.26);
+}
+
+/* =========================
+   CONTENEDOR GENERAL
+========================= */
+
+.container {
+  max-width: 1160px;
+  margin: auto;
+  padding: 58px 22px;
+  animation: entradaPagina 0.35s ease both;
+}
+
+h1 {
+  font-size: clamp(34px, 5vw, 52px);
+  line-height: 1.05;
+  letter-spacing: -1.4px;
+  margin-bottom: 14px;
+  color: #ffffff;
+  text-shadow: 0 2px 18px rgba(255, 255, 255, 0.05);
+}
+
+.container > p {
+  max-width: 850px;
+  font-size: 18px;
+  color: var(--text-soft);
+  line-height: 1.65;
+  margin-bottom: 34px;
+}
+
+/* =========================
+   PANEL DE BÚSQUEDA
+========================= */
+
+.panel {
+  position: relative;
+  z-index: 50;
+  display: flex;
+  gap: 20px;
+  background:
+    linear-gradient(135deg, rgba(25, 38, 61, 0.98), rgba(15, 23, 42, 0.98));
+  backdrop-filter: blur(14px);
+  padding: 28px;
+  border-radius: 24px;
+  margin-bottom: 48px;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  border: 1px solid rgba(148, 163, 184, 0.30);
+  box-shadow:
+    0 20px 50px rgba(0, 0, 0, 0.40),
+    inset 0 1px 0 var(--border-light);
+}
+
+.field {
+  flex: 1;
+  min-width: 260px;
+}
+
+.field label {
+  font-weight: 800;
+  margin-bottom: 11px;
+  display: block;
+  color: var(--text-main);
+  font-size: 16px;
+  line-height: 1.3;
+  letter-spacing: 0.1px;
+}
+
+/* =========================
+   INPUTS Y AUTOCOMPLETE
+========================= */
+
+.autocomplete {
+  position: relative;
+  z-index: 100;
+}
+
+.autocomplete:focus-within {
+  z-index: 999;
+}
+
+.autocomplete input,
+.field select {
+  width: 100%;
+  height: 54px;
+  padding: 13px 17px;
+  border-radius: 14px;
+  border: 1px solid rgba(148, 163, 184, 0.34);
+  font-size: 17px;
+  font-weight: 500;
+  background: #0f172a;
+  color: var(--text-main);
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.autocomplete input::placeholder {
+  color: #64748b;
+  font-weight: 500;
+}
+
+.autocomplete input:focus,
+.field select:focus {
+  border-color: rgba(212, 175, 55, 0.76);
+  box-shadow: 0 0 0 4px rgba(212, 175, 55, 0.12);
+}
+
+/* SUGERENCIAS */
+
+.sugerencias {
+  position: absolute;
+  top: calc(100% + 2px);
+  left: 0;
+  width: 100%;
+  background: #111827;
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 0 0 16px 16px;
+  z-index: 9999;
+  max-height: 230px;
+  overflow-y: auto;
+  box-shadow: 0 18px 35px rgba(0, 0, 0, 0.38);
+  scrollbar-width: thin;
+  scrollbar-color: #475569 #111827;
+}
+
+.sugerencias::-webkit-scrollbar {
+  width: 10px;
+}
+
+.sugerencias::-webkit-scrollbar-track {
+  background: #111827;
+  border-radius: 10px;
+}
+
+.sugerencias::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 10px;
+  border: 2px solid #111827;
+}
+
+.sugerencias::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+.sugerencia-item {
+  padding: 14px 17px;
+  cursor: pointer;
+  color: var(--text-soft);
+  border-bottom: 1px solid rgba(148, 163, 184, 0.14);
+  font-size: 16px;
+  line-height: 1.35;
+  transition: all 0.15s ease;
+}
+
+.sugerencia-item:last-child {
+  border-bottom: none;
+}
+
+.sugerencia-item:hover {
+  background: rgba(212, 175, 55, 0.10);
+  color: var(--accent);
+}
+
+/* =========================
+   BOTONES
+========================= */
+
+button,
+.boton-enlace {
+  min-height: 54px;
+  padding: 0 26px;
+  border: none;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+  color: #111827;
+  font-weight: 900;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 14px 30px rgba(212, 175, 55, 0.20);
+  transition: all 0.22s ease;
+}
+
+button:hover,
+.boton-enlace:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 16px 30px rgba(212, 175, 55, 0.25);
+}
+
+.boton-enlace.secundario {
+  background: rgba(15, 23, 42, 0.8);
+  color: var(--accent);
+  border: 1px solid rgba(212, 175, 55, 0.36);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.22);
+}
+
+.boton-enlace.secundario:hover {
+  background: rgba(212, 175, 55, 0.10);
+}
+
+/* =========================
+   TARJETAS GENERALES
+========================= */
+
+.card {
+  position: relative;
+  background:
+    linear-gradient(180deg, var(--bg-card), var(--bg-card-dark));
+  padding: 28px;
+  border-radius: 24px;
+  flex: 1;
+  min-width: 300px;
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+  overflow: hidden;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-bronze), #4b5563);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+  border-color: rgba(212, 175, 55, 0.32);
+}
+
+.card:hover::before {
+  opacity: 0.65;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin-bottom: 14px;
+  line-height: 1.18;
+  color: var(--text-main);
+  letter-spacing: -0.4px;
+}
+
+.card p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: var(--text-soft);
+  line-height: 1.55;
+}
+
+.card strong {
+  color: var(--text-main);
+}
+
+.card-info {
+  margin-top: auto;
+}
+
+/* =========================
+   RESULTADOS
+========================= */
+
+.resultado {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+  margin-bottom: 52px;
+}
+
+.resultado .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.destacada,
+.resultado-destacado,
+.resultado-tabla-paises {
+  background:
+    linear-gradient(135deg, rgba(28, 40, 62, 0.98), rgba(15, 23, 42, 0.98));
+  border: 1px solid rgba(212, 175, 55, 0.42);
+  box-shadow:
+    0 22px 50px rgba(0, 0, 0, 0.42),
+    0 0 0 1px rgba(212, 175, 55, 0.05);
+}
+
+.destacada h2,
+.resultado-destacado h2,
+.resultado-tabla-paises h2 {
+  color: var(--accent);
+}
+
+/* ESTRUCTURA COMPARADORES */
+
+.resultado-comparador,
+.resultado-paises {
+  position: relative;
+  z-index: 1;
+  margin-top: 34px;
+  margin-bottom: 58px;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
+
+.resumen-comparador,
+.resumen-paises {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(260px, 1fr));
+  gap: 28px;
+}
+
+.resultado-comparador .card,
+.resultado-paises .card-pais {
+  min-height: auto;
+  padding: 30px;
+}
+
+.resultado-comparador .card h2,
+.resultado-paises .card-pais h2 {
+  margin-bottom: 24px;
+}
+
+.resultado-comparador .card-info,
+.resultado-paises .card-pais .card-info {
+  margin-top: 0;
+}
+
+.resultado-destacado,
+.resultado-tabla-paises {
+  width: 100%;
+  min-height: auto;
+  padding: 34px;
+}
+
+.resultado-destacado p,
+.resultado-tabla-paises p {
+  margin-bottom: 14px;
+}
+
+/* =========================
+   GRÁFICOS
+========================= */
+
+.grafico-card {
+  margin-top: 58px;
+  margin-bottom: 58px;
+  padding: 36px;
+}
+
+.grafico-card h2 {
+  margin-bottom: 24px;
+}
+
+.grafico-card canvas {
+  width: 100% !important;
+  height: 380px !important;
+  max-height: 420px;
+}
+
+/* =========================
+   CONCLUSIONES
+========================= */
+
+.conclusiones-comparacion {
+  position: relative;
+  z-index: 1;
+  margin-top: 58px;
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+}
+
+.conclusiones-comparacion .card {
+  padding: 36px;
+  background:
+    linear-gradient(180deg, rgba(22, 34, 52, 0.98), rgba(15, 23, 42, 0.98));
+  border-left: 4px solid rgba(212, 175, 55, 0.48);
+}
+
+.conclusiones-comparacion .card::before {
+  opacity: 0;
+}
+
+.conclusiones-comparacion .card:hover::before {
+  opacity: 0.45;
+}
+
+.conclusiones-comparacion h2 {
+  font-size: 24px;
+  margin-bottom: 18px;
+}
+
+.conclusiones-comparacion ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.conclusiones-comparacion li {
+  position: relative;
+  padding-left: 0;
+  margin-bottom: 12px;
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--text-soft);
+}
+
+.conclusiones-comparacion li::before {
+  display: none;
+}
+
+.conclusion-texto {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-soft);
+  color: var(--text-soft);
+  line-height: 1.65;
+}
+
+/* =========================
+   TABLAS
+========================= */
+
+.tabla-card {
+  margin-top: 64px;
+  margin-bottom: 64px;
+  padding: 36px;
+}
+
+.tabla-card h2 {
+  margin-bottom: 26px;
+}
+
+.tabla-comparacion {
+  margin-top: 20px;
+  overflow-x: auto;
+  border-radius: 16px;
+  border: 1px solid var(--border-soft);
+}
+
+.tabla-comparacion table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+  background: #0f172a;
+  color: var(--text-soft);
+}
+
+.tabla-comparacion th,
+.tabla-comparacion td {
+  padding: 15px 17px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.16);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.tabla-comparacion th {
+  background: #24324d;
+  font-weight: 800;
+  color: var(--accent);
+}
+
+.tabla-comparacion tr:hover {
+  background: rgba(212, 175, 55, 0.08);
+}
+
+.tabla-comparacion tr:last-child td {
+  border-bottom: none;
+}
+
+/* =========================
+   MENÚ DE COMPARADORES / CONCLUSIONES
+========================= */
+
+.comparadores-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  margin-top: 42px;
+}
+
+.comparador-card {
+  position: relative;
+  background:
+    linear-gradient(180deg, rgba(30, 43, 68, 0.98), rgba(17, 24, 39, 0.98));
+  padding: 34px;
+  border-radius: 26px;
+  text-decoration: none;
+  color: var(--text-main);
+  box-shadow: var(--shadow-soft);
+  transition: all 0.25s ease;
+  border: 1px solid rgba(148, 163, 184, 0.26);
+  overflow: hidden;
+}
+
+.comparador-card::after {
+  content: "";
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  right: -70px;
+  top: -70px;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.10), transparent 65%);
+  transition: all 0.25s ease;
+}
+
+.comparador-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 22px 50px rgba(0, 0, 0, 0.40);
+  border-color: rgba(212, 175, 55, 0.32);
+}
+
+.comparador-card:hover::after {
+  transform: scale(1.12);
+}
+
+.comparador-card h2 {
+  margin-bottom: 12px;
+  font-size: 24px;
+  color: var(--text-main);
+}
+
+.comparador-card p {
+  color: var(--text-soft);
+  line-height: 1.6;
+}
+
+/* Centrar la cuarta tarjeta si hay tres arriba */
+.comparadores-grid .comparador-card:last-child {
+  grid-column: 2;
+}
+
+/* =========================
+   PÁGINA DE INICIO
+========================= */
+
+.inicio-container {
+  max-width: 1180px;
+}
+
+.hero {
+  position: relative;
+  background:
+    linear-gradient(135deg, rgba(30, 43, 68, 0.98), rgba(11, 17, 32, 0.98)),
+    radial-gradient(circle at top right, rgba(120, 94, 32, 0.12), transparent 38%);
+  border-radius: 32px;
+  padding: 66px 50px;
+  box-shadow: var(--shadow-strong);
+  margin-bottom: 38px;
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  overflow: hidden;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  width: 260px;
+  height: 260px;
+  right: -90px;
+  bottom: -100px;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.10), transparent 66%);
+}
+
+.hero h1 {
+  max-width: 900px;
+  font-size: clamp(40px, 6vw, 64px);
+  line-height: 1.02;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  max-width: 860px;
+  font-size: 20px;
+  color: var(--text-soft);
+  line-height: 1.7;
+}
+
+.hero-botones {
+  display: flex;
+  gap: 16px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.inicio-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(220px, 1fr));
+  gap: 24px;
+  margin-bottom: 44px;
+}
+
+.video-section {
+  background:
+    linear-gradient(180deg, var(--bg-card), rgba(15, 23, 42, 0.98));
+  padding: 34px;
+  border-radius: 28px;
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-soft);
+}
+
+.video-section h2 {
+  margin-bottom: 10px;
+  font-size: 30px;
+  color: var(--text-main);
+}
+
+.video-section p {
+  color: var(--text-soft);
+  margin-bottom: 22px;
+  line-height: 1.6;
+}
+
+.video-wrapper {
+  width: 100%;
+  border-radius: 22px;
+  overflow: hidden;
+  background: #020617;
+  box-shadow: 0 22px 48px rgba(0, 0, 0, 0.44);
+}
+
+.video-wrapper video {
+  display: block;
+  width: 100%;
+  max-height: 620px;
+}
+
+/* =========================
+   ANIMACIONES
+========================= */
+
+.animar-entrada {
+  animation: aparecerSuave 0.45s ease both;
+}
+
+@keyframes aparecerSuave {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes entradaPagina {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 1000px) {
+  .comparadores-grid .comparador-card:last-child {
+    grid-column: auto;
+  }
+}
+
+@media (max-width: 900px) {
+  .hero {
+    padding: 42px 28px;
+  }
+
+  .inicio-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .resumen-comparador,
+  .resumen-paises {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 38px 16px;
+  }
+
+  .nav-container {
+    gap: 8px;
+    overflow-x: auto;
+  }
+
+  .nav-link {
+    white-space: nowrap;
+    font-size: 14px;
+    padding: 9px 12px;
+  }
+
+  .panel {
+    padding: 20px;
+  }
+
+  .card,
+  .comparador-card {
+    min-width: 0;
+    padding: 24px;
+  }
+
+  .grafico-card,
+  .tabla-card,
+  .conclusiones-comparacion .card {
+    padding: 24px;
+  }
+
+  .hero h1 {
+    font-size: 34px;
+  }
+
+  .hero p {
+    font-size: 17px;
+  }
+}
+
+/* =========================
+   LOGO EN HERO DE INICIO
+========================= */
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.5fr 0.8fr;
+  align-items: center;
+  gap: 42px;
+}
+
+.hero-texto {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-logo {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-logo img {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  object-fit: contain;
+  padding: 24px;
+  border-radius: 28px;
+  background: rgba(248, 250, 252, 0.96);
+  border: 1px solid rgba(212, 175, 55, 0.32);
+  box-shadow:
+    0 22px 50px rgba(0, 0, 0, 0.35),
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+
+  .hero-logo {
+    justify-content: flex-start;
+  }
+
+  .hero-logo img {
+    max-width: 260px;
+  }
+}
+
+/* =========================
+   UTILIDADES
+   Mantener siempre al final
+========================= */
+
+.hidden {
+  display: none !important;
+}
